@@ -1,0 +1,8 @@
+## 01. Extension: simple feature, big impact.
+The idea itself is very simple and easy to understand, BUT,
+It allows you to think in a fully OO fasion.
+It is not always appropriate to have everything in a single place.
+Legacy/Library code are not always friendly for extension.
+It provides a more fluent coding style.
+
+And you can use it anywhere.
