@@ -1,0 +1,4 @@
+1. Only keep abstract functions which are likely to be overridden in the future, and make the rest extensions to the abstrac type.
+2. Public val is as evil as in Java. Expose public val and providing extensions to manipulate it will keep the abstract type simple.
+3. Start out functional, envolve to OO when necessary.
+4. Function parameter with receiver could bring a lot of convenience. For example, accessing to static constants of the receiver type does not require extra imports.
